@@ -1,0 +1,16 @@
+.title {
+  font-size: 80px;
+  position: absolute;
+  top: 10vw;
+  left: 17vw;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 10px rgba(54, 52, 49, 0.3);
+  padding: 30px;
+  border-radius: 15%;
+}
+.container {
+  position: relative;
+  background-color: rgb(229, 250, 227);
+  width: 100vw;
+  height: 100vw;
+}

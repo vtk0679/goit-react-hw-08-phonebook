@@ -1,0 +1,40 @@
+.form {
+  margin-left: 37vw;
+  width: 320px;
+  margin-top: 50px;
+  box-shadow: 0 0 10px rgba(54, 52, 49, 0.3);
+  padding: 50px;
+}
+.label {
+  font-size: 25px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.title {
+  text-shadow: 0 0 10px rgba(54, 52, 49, 0.3);
+  text-align: center;
+}
+
+.button {
+  margin-top: 30px;
+}
+
+.input {
+  font-size: 25px;
+  margin-top: 5px;
+}
+
+.container {
+  width: 100vw;
+  height: 100vw;
+}
+
+.error {
+  color: tomato;
+}
+
+.field {
+  margin-top: 30px;
+}

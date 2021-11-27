@@ -1,0 +1,18 @@
+.form {
+  width: 400px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.title {
+  margin: 0;
+}
+
+.input {
+  margin-bottom: 20px;
+}
+
+.btnSubmit {
+  display: block;
+}
