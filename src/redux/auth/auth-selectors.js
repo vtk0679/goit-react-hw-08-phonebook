@@ -7,6 +7,7 @@ const authSelectors = {
   getIsLoggedIn,
   getUsername,
   getFetchCurrentUser,
+  isRegisterError,
 };
 
 export default authSelectors;
